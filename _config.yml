@@ -24,7 +24,6 @@ github_username: drewburr
 
 # Build settings
 markdown: kramdown
-# theme: jekyll-theme-feeling-responsive
 remote_theme: Phlow/feeling-responsive@gh-pages
 
 # Logo size is supposed to be 600x80 pixels
